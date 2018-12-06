@@ -1,0 +1,24 @@
+categories:
+- Password Reset 
+- This is my own data
+conversations:
+- - Hello 
+  - Hi there! How can I help you today
+- - Hey
+  - Hi there! How can I help you today
+- - I want to reset my password?
+  - Sure I can help you with that. What is your account number?
+- - need password reset help?
+  - Sure I can help you with that. What is your account number?
+- - my account is locked?
+  - Sure I can help you with that. What is your account number?
+- - My account number is 123456.
+  - Thanks, your account is active, now what is the last 4-digit of your SSN?
+- - this is 9876.
+  - Great, you identify is verifed. I have sent you a link for password reset
+- - thanks
+  - you are welcome, is there anything else I can assist?
+- - no.
+  - you have a nice day, goodbye! 
+- - What is my email address?
+  - You email address is you registered email which is 1234@gmail.com  
