@@ -10,7 +10,9 @@ conversations:
   - Sure I can help you with that. What is your account number?
 - - need password reset help?
   - Sure I can help you with that. What is your account number?
-- - my account is locked?
+- - my account is locked.
+  - Sure I can help you with that. What is your account number?
+- - I cannot access my account.
   - Sure I can help you with that. What is your account number?
 - - My account number is 123456.
   - Thanks, your account is active, now what is the last 4-digit of your SSN?
